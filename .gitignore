@@ -11,6 +11,7 @@
 .springBeans
 .sts4-cache
 .java-version
+.DS_Store
 
 ### IntelliJ IDEA ###
 .idea
